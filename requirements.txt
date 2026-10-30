@@ -1,0 +1,10 @@
+openai
+pandas
+python-dotenv
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+langchain-openai
+sentence-transformers
+pypdf
